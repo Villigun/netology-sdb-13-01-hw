@@ -62,10 +62,10 @@ https://www.exploit-db.com/exploits/7701
 *Приведите ответ в свободной форме.*  
 
 Сеансы сканирования wireshark:  
-[SYN](https://github.com/Villigun/netology-sdb-13-01-hw/blob/master/nmap-SYN.pcapng)
-[FIN](https://github.com/Villigun/netology-sdb-13-01-hw/blob/master/nmap-FIN.pcapng) 
-[Xmas](https://github.com/Villigun/netology-sdb-13-01-hw/blob/master/nmap-Xmas.pcapng)
-[UDP](https://github.com/Villigun/netology-sdb-13-01-hw/blob/master/nmap-UDP.pcapng)
+[SYN](https://github.com/Villigun/netology-sdb-13-01-hw/blob/master/nmap-SYN.pcapng)  
+[FIN](https://github.com/Villigun/netology-sdb-13-01-hw/blob/master/nmap-FIN.pcapng)  
+[Xmas](https://github.com/Villigun/netology-sdb-13-01-hw/blob/master/nmap-Xmas.pcapng)  
+[UDP](https://github.com/Villigun/netology-sdb-13-01-hw/blob/master/nmap-UDP.pcapng)  
 
 Исходя из анализа траффика можно сделать вывод что  
   при запросе SYN для открытых портов следует ответ SYN-ACK, для закрытых RST;  
